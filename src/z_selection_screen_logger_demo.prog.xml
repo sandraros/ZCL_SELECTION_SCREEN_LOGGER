@@ -16,6 +16,19 @@
      <ENTRY>Demo</ENTRY>
      <LENGTH>4</LENGTH>
     </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_LAND1</KEY>
+     <ENTRY>.</ENTRY>
+     <LENGTH>9</LENGTH>
+     <SPLIT>D</SPLIT>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_LAND1</KEY>
+     <ENTRY>Several countries</ENTRY>
+     <LENGTH>25</LENGTH>
+    </item>
    </TPOOL>
   </asx:values>
  </asx:abap>
